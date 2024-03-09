@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aditya_muni_" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_muni_?logo=twitter&style=for-the-badge" alt="aditya_muni_" /></a> </p>
 
-- 🔭 I’m currently working on **Shopping Spree (an Ecommerce website)**
+- 🔭 I’m currently working on **Companion.AI (create your own AI chatbot)**
 
 - 🌱 I’m currently learning **NextJS**
 
